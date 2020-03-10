@@ -9,5 +9,6 @@ public class ExemploGit {
 		//Alterado do Eclipse
 		//Alteração de Mary
 		//Segunda Alteração da Mary
+		//Alterado pel José
 	}
 }
